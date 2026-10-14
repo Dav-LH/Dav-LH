@@ -32,4 +32,4 @@ I'm currently developing my skills in network administration, system security, a
 - Connect with developers and cybersecurity professionals worldwide.
 
 
-*“Learning by building, securing by understanding, and growing through collaboration.”* 🚀
+*“Learning by building, securing by understanding, and growing through collaboration.”* 
