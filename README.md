@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dav--LH-181717?style=for-the-badge&logo=github)](https://github.com/Dav-LH)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/Email-Contact-22D3EE?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Folachade70@gmail.com)
 
 </div>
 
